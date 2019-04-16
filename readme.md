@@ -11,9 +11,12 @@ Long time VIM user. Always recluctent to use IDE's.
     * [Extension](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)
     * install it!
 * Extensions
+    * [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
     * [reveal](https://marketplace.visualstudio.com/items?itemName=evilz.vscode-reveal)
     * [markdown](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
-    * `top n`
+    * articles
+      * ["Can Do That?"](https://vscodecandothat.com/)
+      * Top N
 
 ## Why not?
 
