@@ -2,6 +2,8 @@
 
 Long time VIM user. Always recluctent to use IDE's.
 
+![hjkl shirt](/hjkl-shirt.png)
+
 But VSCode changed all that.
 
 ## Why?
@@ -9,6 +11,7 @@ But VSCode changed all that.
 * Vim
     * [Extension](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)
     * install it!
+    * [long press](https://stackoverflow.com/a/440106830)
 
 * Pre installs
     * markdown preview
