@@ -12,7 +12,8 @@ But VSCode changed all that.
 
 * Pre installs
     * markdown preview
-    * formatting (not there in sublime)
+    * formatting (not in sublime)
+    * [emmett](https://code.visualstudio.com/docs/editor/emmet)
 
 * Extensions
     * [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
