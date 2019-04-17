@@ -17,11 +17,10 @@ But VSCode changed all that.
 * Extensions
     * [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
     * [live share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
-    * [reveal](https://marketplace.visualstudio.com/items?itemName=evilz.vscode-reveal)
-    * [markdown](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
-    * articles
-      * ["Can Do That?"](https://vscodecandothat.com/)
-      * [Top N](https://scotch.io/bar-talk/22-best-visual-studio-code-extensions-for-web-development)
+
+* articles
+    * ["Can Do That?"](https://vscodecandothat.com/)
+    * [Top N](https://scotch.io/bar-talk/22-best-visual-studio-code-extensions-for-web-development)
 
 ## Why not?
 
